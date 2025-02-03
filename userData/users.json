@@ -1,0 +1,18 @@
+[
+    {
+        "fullName": "Piyush Mangla",
+        "email": "abc@gmail.com",
+        "dob": "2025-01-27",
+        "password": "$2y$10$B0UEfVLfR.5llY2dIC5mBerywPl0VmK4RoQQ5qCowbl7P0cenkOPa",
+        "profileImage": "uploads\/67a0b58148256_bg-earth.png",
+        "registration_time": "2025-02-03 13:24:33"
+    },
+    {
+        "fullName": "Piyush Mangla",
+        "email": "abc1@gmail.com",
+        "dob": "2025-01-29",
+        "password": "$2y$10$P1OXz6cS.IeOT3ZwfG7kdOYKIHWMJWNPQT6EbBMNEbDdD.f1zLI.O",
+        "profileImage": "uploads\/67a0cd45e53db_image (11).png",
+        "registration_time": "2025-02-03 15:05:57"
+    }
+]
