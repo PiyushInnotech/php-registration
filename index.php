@@ -63,16 +63,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="https://cdn.tailwindcss.com"></script>
-    <script src="https://cdn.jsdelivr.net/npm/flowbite@3.0.0/dist/flowbite.min.js"></script>
-    <title>Registration</title>
-</head>
-<body class="py-10 px-4">
+<div class="py-10 px-4">
     <div class="max-w-3xl mx-auto shadow-md rounded-lg bg-gray-100 p-4 sm:p-8">
         <div class="w-full bg-white shadow rounded p-8">
             <h1 class="text-2xl font-bold mb-6 text-center">Register User</h1>            
@@ -135,10 +126,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 </div>
                 <div class="flex flex-col justify-center items-center">
                     <button type="submit" class="w-fit text-white items-center bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm  px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Submit</button>
-                    <a href='login.php' class="text-blue-500 underline">Already have an account</a>
                 </div>
             </form> 
         </div>
     </div>
-</body>
+</div>
 </html>
